@@ -89,3 +89,16 @@ a {
     width: 100px;
     height: 100px;
 }
+
+.career-table {
+    table-layout: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+.career-duration {
+    background-color: #e0e0e0;
+    font-size: 0.8em;
+}
+.career-job-title {
+    font-size: 0.8em;
+}
